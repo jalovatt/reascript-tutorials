@@ -6,6 +6,8 @@ This post is intended as a brief - and by "brief" I mean "much longer than I tho
 
 I should note that, while the majority of this post is applicable to any Lua environment, at some point we'll inevitably move on to [Reaper][reaper]-specific functionality. It should be fairly obvious though - any functions starting with `reaper` or `gfx`, for instance.
 
+On that note, I should further note that Reaper offers a fully-functional trial for 60 days, and the download is tiny, so you could quite reasonably install it just for the purpose of following along.
+
 ## What is Lua?
 
 >Lua is a lightweight, multi-paradigm programming language designed primarily for embedded use in applications. Lua is cross-platform, since the interpreter is written in ANSI C, and has a relatively simple C API. _(Wikipedia)_
